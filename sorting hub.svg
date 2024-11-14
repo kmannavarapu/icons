@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="24" height="24">
+	<title>sorting hub-svg</title>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m15 12l-10 5v13h4v-10h12v10h4v-13z"/>
+		<path id="Layer" class="s0" d="m10 28h2v2h-2z"/>
+		<path id="Layer" class="s0" d="m10 25h2v2h-2z"/>
+		<path id="Layer" class="s0" d="m10 22h2v2h-2z"/>
+		<path id="Layer" class="s0" d="m13 22h2v2h-2z"/>
+		<path id="Layer" class="s0" d="m13 28h2v2h-2z"/>
+		<path id="Layer" class="s0" d="m13 25h2v2h-2z"/>
+		<path id="Layer" class="s0" d="m16 28h2v2h-2z"/>
+		<path id="Layer" class="s0" d="m16 25h2v2h-2z"/>
+	</g>
+</svg>
